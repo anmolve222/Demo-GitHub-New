@@ -1,1 +1,1 @@
-Multiply function changed from browser
+Multiply function changed from browser and now from pc
